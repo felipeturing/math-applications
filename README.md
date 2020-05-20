@@ -1,4 +1,4 @@
 # Universidad Nacional de Ingeniería
-# Facultad de Ciencias 
-## Escuela Profesional de Matemática
+## Facultad de Ciencias 
+### Escuela Profesional de Matemática
 
