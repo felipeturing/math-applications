@@ -1,6 +1,6 @@
 # Research 
 
-Here you'll will find academic projects about math, computer-science, et. al that reinforce their knowledge in each subject for our. 
+Here you'll will find academic projects about math, computer-science, et. al that reinforce our knowledge in each subject at National University of Engineering, Lima, Peru. 
 
 ## Getting Started
 
